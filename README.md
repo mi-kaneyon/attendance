@@ -18,6 +18,8 @@ python training_script.py
 
 ```
 - default epoch is 10. If you feel insufficient, you can adjust parameter.
+### After training create and save model.pth file in the script directory.
+
 
 ## attendance.py
 **This is main script recognize member**
