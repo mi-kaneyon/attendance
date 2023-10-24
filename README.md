@@ -49,6 +49,7 @@ python training_script.py
 
 - NG directory is not necessary create sub directory
 - OK directory is save memeber sub directory.
+- Regarding the OK directory pictures, create sub directory like a above tree and file name is similar with directory name to distinguish.
 
 
 # Example 
