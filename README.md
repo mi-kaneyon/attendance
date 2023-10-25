@@ -41,9 +41,9 @@ python training_script.py
 │   ├── aiai
 │   ├── fuku
 │   ├── mama
-│   └── youi
-├── result
-└── script
+├── Result
+├─── script
+├──  
 
 ```
 
@@ -51,7 +51,12 @@ python training_script.py
 - OK directory is save memeber sub directory.
 - Regarding the OK directory pictures, create sub directory like a above tree and file name is similar with directory name to distinguish.
 
+# GUI Automatical recording version
 
+```
+python attengui.py
+
+```
 # Example 
 
 ## fuku (member of OK)
