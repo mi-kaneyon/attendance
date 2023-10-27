@@ -1,7 +1,7 @@
 # attendance
 attendance system home security
 
-# Update
+# Update(28 OCT!!)
 **Sorry for forgetting to upload scripts**
 - whole script is in the script sub directory
 
