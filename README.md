@@ -15,6 +15,7 @@ attendance system home security
 ## training_script.py
 - It is traiing OK(known person/family/menmber)
 - you can save the NG picture from original pics or datasets.
+- genrated "pth" trained model should be moved to script directory.
 
 ```
 python training_script.py
