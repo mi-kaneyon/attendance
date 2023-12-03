@@ -1,6 +1,13 @@
 # attendance
 attendance system home security
 
+# Update(3 DEC!!)
+**Resnet50 applicable version**
+- please check script subdirectory
+- attendance_v3.py
+- train_modelv3.py : train Resnet50 version
+- insp.py : inspect pth model 
+
 # Update(28 OCT!!)
 **Sorry for forgetting to upload scripts**
 - whole script is in the script sub directory
