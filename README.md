@@ -1,6 +1,11 @@
 # attendance
 attendance system home security
 
+# Update(13 DEC!!)
+**Resnet50 applicable version**
+- train_modelv3.py: code optimized
+- resnetatten.py : revise cam issue version
+
 # Update(3 DEC!!)
 **Resnet50 applicable version**
 - please check script subdirectory
